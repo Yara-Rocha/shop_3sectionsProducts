@@ -35,3 +35,11 @@ flex-direction: row;
 display: flex;
 flex-direction: column;
 }
+
+#destacados .contenedor > div {
+text-align: center;
+padding: 10px;
+margin: 10px;
+background-color: white;
+width: 50%;
+}
