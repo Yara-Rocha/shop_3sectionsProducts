@@ -26,3 +26,8 @@ footer {
 	text-align: center;
 }
 
+
+.contenedor {
+display: flex;
+flex-direction: row;
+}
